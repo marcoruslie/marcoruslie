@@ -3,6 +3,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Systems;Laravel+%7C+Vue+%7C+Nuxt+%7C+React+%7C+Next;Automation+%7C+Business+Growth;From+Ideas+to+Execution" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcoruslie/marcoruslie/main/banner.png" />
+</p>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcoruslie&label=Profile+Views&color=0e75b6&style=flat" />
